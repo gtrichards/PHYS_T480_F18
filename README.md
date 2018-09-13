@@ -66,5 +66,3 @@ Lecture 18 (11/28): TimeSeries2.ipynb and NeuralNetworks.ipynb
 Lecture 19 (12/3): Project Presentations
 
 Lecture 20 (12/5): Project Presentations
-
-Lecture 21 (12/1): Project Presentations
