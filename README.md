@@ -68,5 +68,3 @@ Lecture 19 (12/3): Project Presentations
 Lecture 20 (12/5): Project Presentations
 
 Lecture 21 (12/1): Project Presentations
-
-https://github.com/uw-astr-324-s18/astr-324-s18/
