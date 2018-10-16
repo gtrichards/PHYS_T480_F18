@@ -41,21 +41,21 @@ Lecture 6 (10/15): Inference2.ipynb
 
 Lecture 7 (10/17): Scikit-Learn-Intro.ipynb
 
-Lecture 8 (10/22): Ditto
+Lecture 8 (10/22): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
 
-Lecture 9 (10/24): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
+Lecture 9 (10/24): MixtureModel.ipynb and Clustering.ipynb
 
-Lecture 10 (10/29): MixtureModel.ipynb and Clustering.ipynb
+Lecture 10 (10/29): DimensionReduction.ipynb
 
-Lecture 11 (10/31): DimensionReduction.ipynb
+Lecture 11 (10/31): NonlinearDimensionReduction.ipynb
 
-Lecture 12 (11/5): NonlinearDimensionReduction.ipynb
+Lecture 12 (11/5): Regression.ipynb
 
-Lecture 13 (11/7): Regression.ipynb
+Lecture 13 (11/7): Regression2.ipynb
 
-Lecture 14 (11/12): Regression2.ipynb
+Lecture 14 (11/12): Classification.ipynb
 
-Lecture 15 (11/14): Classification.ipynb
+Lecture 15 (11/14): No Lecture
 
 Lecture 16 (11/19): Classification2.ipynb
 
